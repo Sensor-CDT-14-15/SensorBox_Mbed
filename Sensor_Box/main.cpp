@@ -51,7 +51,7 @@ void getdata()
     pir_data.pop_back();
     noise_data.pop_back();
 
-    printf("%f\n", light_data);
+    // printf("%f\n", light_data);
 }
 
 void average()
